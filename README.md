@@ -4,7 +4,7 @@
 Author: [Paul Lindquist](https://www.linkedin.com/in/paul-lindquist/)
 
 ## Objective
-Used a simple dataset from Kaggle to visualize in Tableau
+Used a simple dataset from Kaggle to visualize a dashboard in Tableau
 
 ## Data
 An [office supply sales dataset](https://www.kaggle.com/fmendes/office-supply-sales?select=OfficeSupplies.csv) from Kaggle
